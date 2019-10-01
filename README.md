@@ -1,7 +1,28 @@
 # Ynu-Programmer-2018
-We are Ynu programmers.
+```
+    We are Ynu programmers.
+```
+
+# As a begainer programmer we must need to know --->
+
+git
+github
+	-> Create an account in github.
+	-> User name.
+	-> Mail
+	-> pass -> 4 Combination, 01. Car, 02. number, 03, Upper Car, 04. Special Sign. -> Choyon@12345
+
+HTML5 == today 19. 09. 2019 HTML5
+CSS3
+Bootstrap4
+SCSS/SASS
 
 
+Text Editor
+    VS code / Sublime text
+        live server
+
+-----------------------------------------------------------------------------
 # Second-Day
 # Working Documentation.
 # First time setup for begainer programmer.

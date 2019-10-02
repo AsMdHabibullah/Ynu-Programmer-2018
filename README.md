@@ -43,9 +43,9 @@ Text Editor
     12. after compleating we create a new project like the same of svg layout picture
     13. plugin install in vs code ---> liveserver
     14. we need to go https://www.lipsum.com/ for copy dumy content
+
+#   15. git command for upload all changes in to github from local to cloud.
 -----------------------------------------------------------------
-    15. git command for upload all changes in to github from local to cloud.
-    
         git status
         git add .
         git status

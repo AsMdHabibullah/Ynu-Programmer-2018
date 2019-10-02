@@ -43,17 +43,16 @@ Text Editor
     12. after compleating we create a new project like the same of svg layout picture
     13. plugin install in vs code ---> liveserver
     14. we need to go https://www.lipsum.com/ for copy dumy content
-    -----------------------------------------------------------------
+-----------------------------------------------------------------
     15. git command for upload all changes in to github from local to cloud.
-```
-    git status
-    git add .
-    git status
-    git commit -m "Today is third day and we compleate html tag and review some tag also html project layout."
-    git status
-    git push
-```
-    ------------------------------------------------------------------------------
+    
+        git status
+        git add .
+        git status
+        git commit -m "Today is third day and we compleate html tag and review some tag also html project layout."
+        git status
+        git push
+------------------------------------------------------------------------------
 # Today is our Third Day----01.10.2019   
 -----------------------------------------------------------------------------
     01. If we want to update our local pc then we must need to command --->
